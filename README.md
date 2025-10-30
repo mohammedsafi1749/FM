@@ -1,17 +1,17 @@
-EXP NO : 4 GENERATION AND DETECTION OF FM
+## EXP NO : 4 GENERATION AND DETECTION OF FM
 
-AIM:
+## AIM:
 
 To write a program for Frequency Modulation and Demodulation using SCILAB and to observe
 and measure the frequency deviation and the modulation index of FM.
 
-EQUIPMENTS REQUIRED
+## EQUIPMENTS REQUIRED
 
- Computer with i3 Processor
+1.Computer with i3 Processor
 
- SCI LAB
+2.SCI LAB
 
-THEORY:
+## THEORY:
 
 Frequency modulation is a type of modulation in which the frequency of the high frequency
 (carrier) is varied in accordance with the instantaneous value of the modulating signal.
